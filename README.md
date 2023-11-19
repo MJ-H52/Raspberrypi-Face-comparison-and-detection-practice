@@ -5,3 +5,6 @@ Camera Module: NoIR Camera V2
 
 The effects of version v1:
 https://www.youtube.com/watch?v=v7XCnKdDeYY
+
+The effects of version v2:
+https://youtu.be/XygpVsDPpeY
